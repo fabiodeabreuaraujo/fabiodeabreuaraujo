@@ -1,14 +1,59 @@
-- 👋 Hi, I’m @fabiodeabreuaraujo
-- 👀 I’m interested in Python programming, web development, blockchain and cryptocurrencies, quantum computing, Scrum, open source
-- 🌱 I’m currently learning Python, Django and ways to write and deploy code
-- 💞️ I’m looking to collaborate on Python and Django projects that challenge me and help me learn and enhance my developing skills
+# Fábio de Abreu
 
-I work at Banco do Brasil, one of Latin America's biggest banks. I'm currently working with Big Data and Analytics modeling data, writing code and planning the architecture and standards of the data pipeline.  
+## PT-BR
 
-I'm this context, I'm writing two Python packages: one for financial modeling and another to automate data related activities.
-<!---
- 
-- 📫 How to reach me ...
-fabiodeabreuaraujo/fabiodeabreuaraujo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Pesquisador aplicado e profissional de tecnologia com atuação em engenharia e qualidade de dados, desenvolvimento em Python e construção de soluções orientadas por análise técnica.
+
+Minha experiência reúne desenvolvimento web, processamento de dados em larga escala, modelagem de dados, modelagem financeira e desenvolvimento de aplicações com inteligência artificial.
+
+Atualmente, concentro meus estudos na aplicação e treinamento de modelos de IA para produção técnica estruturada, pesquisa aplicada e automação analítica, com interesse especial em aplicações para elaboração de projetos culturais e produção de textos jurídicos.
+
+Também desenvolvo formação interdisciplinar em Direito, Economia e Finanças, com foco nas implicações práticas, regulatórias e econômicas da tecnologia.
+
+### Formação
+
+- MBA em Business Analytics e Big Data
+- Pós-graduação em Economia e Finanças
+- Pós-graduação em Auditoria Fiscal
+
+### Stack
+
+- Python
+- Django
+- Apache Spark
+- Pandas
+- AWS
+- Data Engineering
+- Data Quality
+- Financial Modeling
+- Applied AI
+
+---
+
+## EN
+
+Applied researcher and technology professional focused on data engineering, data quality, Python development, and technically driven solutions.
+
+My experience includes web development, large-scale data processing, data modeling, financial modeling, and artificial intelligence applications.
+
+I am currently focused on training and applying AI models for structured technical production, applied research, and analytical automation, with special interest in cultural project development and legal text generation.
+
+I also pursue interdisciplinary studies in Law, Economics, and Finance, with emphasis on the practical, regulatory, and economic implications of technology.
+
+### Education
+
+- MBA in Business Analytics and Big Data
+- Graduate studies in Economics and Finance
+- Graduate studies in Tax Auditing
+
+### Stack
+
+- Python
+- Django
+- Apache Spark
+- Pandas
+- AWS
+- Data Engineering
+- Data Quality
+- Financial Modeling
+- Applied AI 
